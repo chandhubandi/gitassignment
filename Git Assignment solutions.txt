@@ -1,0 +1,23 @@
+Git Assignment solutions
+
+1)Git is a version control system,created by linux and maintained by junio hamano
+
+2)version control system is system that records changes to a file or set of files over timee, so that we can recall specific versions later,i.e for every source code changes code changes i  a file a new version will be created.
+
+3)git hub is one of the git server tool
+
+4)git hosting services are github,gitlab,BitBucket,Gitblit..
+
+5)There are 3 types of VCS
+    1)Local Version Control System (LVCS)
+    2)Centralised Control System (CVCS)
+    3)Distributed Version Control System (DVCS)
+6)Git is used for
+a. Tracking code changes
+b. Tracking who made changes like history of the files
+c. Coding Collaborations
+
+7)The term Git repository describes the location where all Git files are kept. Either the local repository or the
+remote repository may be used to store these files.
+
+8)The git init command must be used to initialise an empty repository to a directory in Git.
